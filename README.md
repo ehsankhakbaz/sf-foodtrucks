@@ -4,6 +4,13 @@ This project is a fun one! For foodies in San Francisco who fancy eating outside
 Running this app, you can import the SF public food truck data, select the type of food you like, and see a list of options with their addresses.\
 In this repo, there's a back-end Node.js app with a connection to MongoDB and a GraphQL API. There's also a front-end React app in `/client`
 
+### `yarn install`
+To get started, once you clone the repo, run `yarn install` to have your dev environment ready with all needed packages.
+
+### `cp env.sample .env`
+You can set the environment, port and MongoDB Atlass URI here. These are needed for the next steps.
+
+
 ## Available Back-end Scripts `/`
 
 In the project directory, you can run:
