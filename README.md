@@ -20,8 +20,7 @@ Runs the app in the development mode.\
 The app will reload if any code changes happen.\
 Open [http://localhost:3001](http://localhost:3001) to view it in your browser. But since it is the back-end app, there's not much to see. You also need to run the next command in the `/client` directory on a different terminal to launch the front end.
 
-![sf-foodtrucks-start](https://raw.githubusercontent.com/ehsankhakbaz/sf-foodtrucks/main/assets/sf-foodtrucks-start.png)
-
+<img src="https://raw.githubusercontent.com/ehsankhakbaz/sf-foodtrucks/main/assets/sf-foodtrucks-start.png" width="400" alt="sf-foodtrucks-start">
 
 ### `yarn run build`
 
