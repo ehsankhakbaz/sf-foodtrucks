@@ -7,7 +7,7 @@ In this repo, there's a back-end Node.js app with a connection to MongoDB and a 
 ### `yarn install`
 To get started, once you clone the repo, run `yarn install` to have your dev environment ready with all needed packages.
 
-### `cp env.sample .env`
+### `cp .env.sample .env`
 You can set the environment, port and MongoDB Atlass URI here. These are needed for the next steps.
 
 
@@ -37,6 +37,11 @@ Builds the app for production.\
 ## Available Front-end Scripts `/client`
 
 ### `cd client`
+Open a new terminal and navigate to the client app.
+
+### `yarn install`
+Builds the required libraries for the React app to run.
+
 ### `yarn start`
 
 Navigate to the /client directory on a separate terminal.
@@ -44,7 +49,6 @@ Navigate to the /client directory on a separate terminal.
 
 ![sf-foodtrucks-front](https://raw.githubusercontent.com/ehsankhakbaz/sf-foodtrucks/main/assets/sf-foodtrucks-front.png)
 
-### `cd client`
 ### `yarn run build`
 
 Builds the app for production to the `build` folder.\
