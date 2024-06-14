@@ -1,0 +1,5 @@
+type Query {
+  # Facilities
+  facilities(tag: String): [Facility]
+  facility(id: ID!): Facility
+}

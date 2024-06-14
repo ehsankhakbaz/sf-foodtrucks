@@ -1,0 +1,10 @@
+# Types
+type Facility { 
+  locationid: Float
+  Applicant: String
+  FacilityType: String
+  Address: String
+  Latitude: Float
+  Longitude: Float
+  FoodItems: String
+}

@@ -1,0 +1,1 @@
+export { default as Facility } from './facility.js';
