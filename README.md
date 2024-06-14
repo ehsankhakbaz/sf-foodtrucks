@@ -13,10 +13,15 @@ In the project directory, you can run:
 Imports the data into a MongoDB server. MongoDB Atlas is suggested.\ 
 The source of the data is from San Francisco's food truck open dataset. A copy of the data is available in .csv and `db/source`. You can replace that with the latest file at any time.
 
+![sf-foodtrucks-dbimport](https://raw.githubusercontent.com/ehsankhakbaz/sf-foodtrucks/main/assets/sf-foodtrucks-dbimport.png)
+
 ### `yarn dev`
 Runs the app in the development mode.\
 The app will reload if any code changes happen.\
 Open [http://localhost:3001](http://localhost:3001) to view it in your browser. But since it is the back-end app, there's not much to see. You also need to run the next command in the `/client` directory on a different terminal to launch the front end.
+
+![sf-foodtrucks-start](https://raw.githubusercontent.com/ehsankhakbaz/sf-foodtrucks/main/assets/sf-foodtrucks-start.png)
+
 
 ### `yarn run build`
 
@@ -30,6 +35,8 @@ Builds the app for production.\
 
 Navigate to the /client directory on a separate terminal.
 `yarn start` launches the front-end React app on a browser on [http://localhost:3000](http://localhost:3000)
+
+![sf-foodtrucks-front](https://raw.githubusercontent.com/ehsankhakbaz/sf-foodtrucks/main/assets/sf-foodtrucks-front.png)
 
 ### `cd client`
 ### `yarn run build`
